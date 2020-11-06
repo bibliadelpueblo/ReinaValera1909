@@ -1,5 +1,6 @@
 chcp 65001
-..\..\bin\bibmark.exe
+
+bin\bibmark.exe
 cd tex
 @REM xelatex Biblia14ptB5
 @REM del BibliaDelOsoPinoleroLetraGrandeB5.pdf
